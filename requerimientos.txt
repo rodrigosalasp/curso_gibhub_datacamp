@@ -1,0 +1,3 @@
+numpy==1.salas
+pandas==3.salas
+matpltlib==5.salitas
